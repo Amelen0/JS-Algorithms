@@ -1,2 +1,2 @@
 # JS-Algorithms
-Practice scripting in javascript
+Practice scripting in Javascript
